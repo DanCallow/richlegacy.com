@@ -1,0 +1,65 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Mar 2021 16:46:58 at http://web.archive.org/web/20191020174601/http://richlegacy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://web.archive.org/web/20191020174601/http://richlegacy.com/ -O1 "C:\Users\Haris Butt\Desktop\webachive" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:49:35	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/feed/
+16:49:35	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/feed/ to http://web.archive.org/web/20191026105152/http://richlegacy.com/feed/
+16:49:35	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/comments/feed/
+16:49:35	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/comments/feed/ to http://web.archive.org/web/20191026105348/http://richlegacy.com/comments/feed/
+16:49:43	Error: 	"NOT FOUND" (404) at link web.archive.org/web/20191020174601cs_/http://richlegacy.com/wp-content/uploads/fusion-styles/fusion-8.min.css?timestamp=1571364522&ver=4.9.6 (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/about/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/about/ to http://web.archive.org/web/20191021100921/http://richlegacy.com/about/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/advisory-board/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/advisory-board/ to http://web.archive.org/web/20191021100602/http://richlegacy.com/advisory-board/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/media/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/media/ to http://web.archive.org/web/20191021100628/http://richlegacy.com/media/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/tools/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/tools/ to http://web.archive.org/web/20191021100703/http://richlegacy.com/tools/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/services/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/services/ to http://web.archive.org/web/20191021100757/http://richlegacy.com/services/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/knowledge/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/knowledge/ to http://web.archive.org/web/20191021100932/http://richlegacy.com/knowledge/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/contact-us/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/contact-us/ to http://web.archive.org/web/20191021100927/http://richlegacy.com/contact-us/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/author/admin/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/author/admin/ to http://web.archive.org/web/20191021095229/http://richlegacy.com/author/admin/
+16:49:47	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_09.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_05-2.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2016/12/img7.jpg (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_10-1.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/family-story/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/family-story/ to http://web.archive.org/web/20191108033717/http://richlegacy.com/family-story/
+16:49:47	Error: 	"NOT FOUND" (404) at link web.archive.org/web/20191020174601/http://richlegacy.com/"http://web.archive.org/web/20191020174601im_/http://richlegacy.com/wp-content/uploads/2015/03/children-running-on-meadow-at-sunset-e1503089465333_new.jpg" (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Error: 	"NOT FOUND" (404) at link web.archive.org/web/20191020174601/http://richlegacy.com/"http://web.archive.org/web/20191020174601im_/http://richlegacy.com/wp-content/uploads/2015/03/White-Background-e1503089869834.jpg" (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/learning-how-to-parent-a-child-with-special-needs-is-just-the-beginning-nurturing-a-special-needs-family/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/learning-how-to-parent-a-child-with-special-needs-is-just-the-beginning-nurturing-a-special-needs-family/ to http://web.archive.org/web/20191021100937/http://richlegacy.com/learning-how-to-parent-a-child-with-special-needs-is-just-the-beginning-nurturing-a-special-needs-family/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/10-powerful-father-son-activities-classic-and-modern-ways-to-build-bond-and-explore-the-world-with-your-son/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/10-powerful-father-son-activities-classic-and-modern-ways-to-build-bond-and-explore-the-world-with-your-son/ to http://web.archive.org/web/20191021100834/http://richlegacy.com/10-powerful-father-son-activities-classic-and-modern-ways-to-build-bond-and-explore-the-world-with-your-son/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/parent-year-5-reasons-mantra-will-make-parenting-worth-celebrating/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/parent-year-5-reasons-mantra-will-make-parenting-worth-celebrating/ to http://web.archive.org/web/20191021100633/http://richlegacy.com/parent-year-5-reasons-mantra-will-make-parenting-worth-celebrating/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/parents-make-everyday-take-kid-work-day/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/parents-make-everyday-take-kid-work-day/ to http://web.archive.org/web/20191021100942/http://richlegacy.com/parents-make-everyday-take-kid-work-day/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/best-parents-choose-quality-quantity/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/best-parents-choose-quality-quantity/ to http://web.archive.org/web/20191021100623/http://richlegacy.com/best-parents-choose-quality-quantity/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/empowerment-mastered-number-one-important-skill-parents-need-empower-children/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/empowerment-mastered-number-one-important-skill-parents-need-empower-children/ to http://web.archive.org/web/20191021100603/http://richlegacy.com/empowerment-mastered-number-one-important-skill-parents-need-empower-children/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/events/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/events/ to http://web.archive.org/web/20191026105239/http://richlegacy.com/events/
+16:49:47	Warning: 	FOUND for web.archive.org/web/20191020174601/http://richlegacy.com/family-academy/
+16:49:47	Warning: 	File has moved from web.archive.org/web/20191020174601/http://richlegacy.com/family-academy/ to http://web.archive.org/web/20191026105310/http://richlegacy.com/family-academy/
+16:49:47	Error: 	"NOT FOUND" (404) at link web.archive.org/web/20191020174601/http://richlegacy.com/POST (from web.archive.org/web/20191020174557/https://connect.facebook.net/en_US/fbevents.js)
+16:49:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_09.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_05-2.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2016/12/img7.jpg (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_10-1.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_09.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_05-2.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link yourrichlegacy.com/wp-content/uploads/2016/12/img7.jpg (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+16:49:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link yourrichlegacy.com/wp-content/uploads/2017/01/img-_10-1.png (from web.archive.org/web/20191020174601/http://richlegacy.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 50 seconds : 98 links scanned, 62 files written (4533890 bytes overall) [3915665 bytes received at 23033 bytes/sec], 1767181 bytes transferred using HTTP compression in 30 files, ratio 28%, 10.7 requests per connection
+(8 errors, 46 warnings, 0 messages)
